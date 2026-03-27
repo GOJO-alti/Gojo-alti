@@ -11,7 +11,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Gojo9xx) 
 
-
+https://github.com/user-attachments/assets/a837b244-4697-46c7-b2c5-f6362ca34adb
 
 
  🧸❤️
