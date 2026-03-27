@@ -6,7 +6,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-https://github.com/user-attachments/assets/a837b244-4697-46c7-b2c5-f6362ca34adb
+
 
 
 ## 🌐 Socials:
