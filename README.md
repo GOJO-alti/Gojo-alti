@@ -13,8 +13,9 @@
 
 # 📊 GitHub Stats:
 
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
