@@ -1,6 +1,6 @@
 <img align="right" width="80%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="RED ADN BLACK sky" />
 
-<ing alin="right" width=90% screenshot="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydHo3YmZrbGxscGFmNHdiM3k1eTkwOTducmtyc2FlajhveDRkb3V1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif
+<ing alin="right" width=90% scr="https://media3.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt
 
 
 
