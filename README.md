@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Gojo9xx) 
 
 
-<img width="480" height="720" alt="Image" src="https://github.com/user-attachments/assets/efb1043f-c2ae-458a-b290-0708e8d10f4d" />
+
 
  🧸❤️
 
