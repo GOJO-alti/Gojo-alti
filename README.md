@@ -1,7 +1,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Gojo9xx) 
-https://raw.githubusercontent.com/majidtdeni666/majidtdeni666/refs/heads/main/script/tenor.gif
 
 
 # 💻 Tech Stack:
