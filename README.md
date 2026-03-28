@@ -37,6 +37,10 @@ style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.
 
 # 📊 GitHub Stats:
 
+
+<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
+
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 </div>
