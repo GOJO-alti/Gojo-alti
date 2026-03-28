@@ -41,7 +41,11 @@ style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
   </a>
 
+![Image](https://github.com/user-attachments/assets/56cb16c8-cb50-4580-abe6-79252c2c4d77)
 
+![Image](https://github.com/user-attachments/assets/f3db82e6-b323-4032-8c5f-0c1d034a8f54)
+
+![Image](https://github.com/user-attachments/assets/017c7909-e073-4514-a801-b2f167955f7e)
 
 
 
