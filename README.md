@@ -1,13 +1,7 @@
-
-
-
-
-
-
-
-
-     
+   
 [![𝐇𝐈 𝐈 𝐀𝐌  𝐆𝐎𝐉𝐎 𝐇𝐄𝐑𝐄](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+𝐆𝐎𝐉𝐎+𝐇𝐄𝐑𝐄;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+India-𝐀𝐒𝐒𝐀𝐌;Nice+to+Meet+You)](https://github.com/𝐆𝐎𝐉𝐎789)
+
+![Image](https://github.com/user-attachments/assets/9a03ff0d-b89b-492f-8feb-c63f16b94ba0)
 
 ![Image](https://github.com/user-attachments/assets/4abb4bab-1c20-4cd9-8bd0-ab01e4106ab6)
 
