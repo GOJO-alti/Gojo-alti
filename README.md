@@ -11,7 +11,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-https://github.com/user-attachments/assets/571e8d65-f3b5-4515-af85-279995e2dede
 
 
 ## 🌐 Socials:
