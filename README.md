@@ -47,9 +47,7 @@ style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.
   </a>
 
 
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct
 
-g" /> </p>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gojo-alit&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
