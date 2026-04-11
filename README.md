@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ALI-INXIDE">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F5FF&center=true&vCenter=true&width=750&lines=⚡+Developer+|+Innovator+|+Cyber+Engineer;🚀+Bot+Creator+%26+Automation+Expert;💻+Welcome+to+ALI-INXIDE's+Digital+Universe!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F5FF&center=true&vCenter=true&width=750&lines=⚡+Hi+|+everyone+|+My+Name;🚀+GOJO+FROM+%26+INDIA+ASSAM;💻+Welcome+to+My-'+Digital+Universe!">
   </a>
 </p>   
 [![𝐇𝐈 𝐈 𝐀𝐌  𝐆𝐎𝐉𝐎 𝐇𝐄𝐑𝐄](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+𝐆𝐎𝐉𝐎+𝐇𝐄𝐑𝐄;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+India-𝐀𝐒𝐒𝐀𝐌;Nice+to+Meet+You)](https://github.com/𝐆𝐎𝐉𝐎789)
